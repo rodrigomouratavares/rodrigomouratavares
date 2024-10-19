@@ -12,16 +12,15 @@ Atualmente, estou trabalhando em projetos que utilizam HTML, CSS, JavaScript e T
 
 
 
-## Formação acadêmica:
+## 🎓Formação acadêmica:
 - **Analise e desenvolvimento de sistemas**
 
-## Meus projetos:
-
-<img width = 50% src ="![image](https://github.com/user-attachments/assets/c851a498-b6fd-4254-b073-88c5d92e4c82)" />
-
-
-
   *Uniateneu* [2021-2022] 
+
+
+
+
+
   
 ## Minhas ferramentas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
