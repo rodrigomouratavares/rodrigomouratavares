@@ -1,14 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=07020D&text=Rodrigo%20Tavares&fontSize=50&textBg=false&animation=twinkling&fontColor=E9E6FF"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomouratavares&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomouratavares&hide=shell,perl,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 ## Sobre mim:
 Olá! 👋 Sou um estudante de Desenvolvimento Front-End com foco em JavaScript. Tenho paixão por construir interfaces de usuário dinâmicas e responsivas, e estou constantemente aprendendo novas tecnologias para aprimorar minhas habilidades.
-Atualmente, estou trabalhando em projetos que utilizam HTML, CSS, JavaScript e TypeScript, e sempre buscando oportunidades para explorar novas ferramentas e melhorar minhas práticas de codificação.
+Atualmente, estou trabalhando em projetos que utilizam HTML, CSS, JavaScript e TypeScript, sempre buscando oportunidades para explorar novas ferramentas e melhorar minhas práticas de codificação.
 
 
 
