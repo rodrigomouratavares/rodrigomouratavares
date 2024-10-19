@@ -1,16 +1,27 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=07020D&text=Rodrigo%20Tavares&fontSize=50&textBg=false&animation=twinkling&fontColor=E9E6FF"/>
 
-<!--
-**rodrigomouratavares/rodrigomouratavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomouratavares&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Sobre mim:
+Olá! 👋 Sou um estudante de Desenvolvimento Front-End com foco em JavaScript. Tenho paixão por construir interfaces de usuário dinâmicas e responsivas, e estou constantemente aprendendo novas tecnologias para aprimorar minhas habilidades.
+Atualmente, estou trabalhando em projetos que utilizam HTML, CSS, JavaScript e TypeScript, e sempre buscando oportunidades para explorar novas ferramentas e melhorar minhas práticas de codificação.
+
+
+
+## Formação acadêmica:
+- **Analise e desenvolvimento de sistemas**
+
+
+  *Uniateneu* [2021-2022] 
+  
+## Minhas ferramentas:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
