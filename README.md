@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=07020D&text=Rodrigo%20Tavares&fontSize=50&textBg=false&animation=twinkling&fontColor=E9E6FF"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E9E6FF&center=true&width=500&height=300&lines=Bem-vindos+ao+meu+perfil!;Fique+a+vontade+para+me+conhecer+mais!)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomouratavares&hide=shell,perl,php,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,6 +15,11 @@ Atualmente, estou trabalhando em projetos que utilizam HTML, CSS, JavaScript e T
 
 ## Formação acadêmica:
 - **Analise e desenvolvimento de sistemas**
+
+## Meus projetos:
+
+<img width = 50% src ="![image](https://github.com/user-attachments/assets/c851a498-b6fd-4254-b073-88c5d92e4c82)" />
+
 
 
   *Uniateneu* [2021-2022] 
